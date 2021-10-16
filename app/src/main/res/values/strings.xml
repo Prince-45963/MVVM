@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="welcome">Welcome!</string>
+    <string name="create_a_account_or_sign_in_to_begin">Create a account or Sign in to begin</string>
+    <string name="email_address_label">Email Address</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in_with_email">Sign in with Email</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
