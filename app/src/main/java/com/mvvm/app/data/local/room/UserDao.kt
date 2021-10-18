@@ -12,4 +12,6 @@ interface UserDao {
     fun insert(user:User)
     @Query("SELECT * FROM user_table")
     fun getUserList():LiveData<MutableList<User>>
+    @Query("DELETE FROM user_table")
+    fun deleteAll()
 }
